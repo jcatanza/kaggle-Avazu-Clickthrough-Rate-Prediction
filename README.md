@@ -4,5 +4,5 @@ Python kernels for exploratory data analysis, feature engineering, modeling and 
 
 The folder sgd contains stochastic gradient descent solution
 
-The folder lightgbm contains gradient boosting machines solution
+The folder sklearn contains gradient boosting machines solution, using lightgbm
 
